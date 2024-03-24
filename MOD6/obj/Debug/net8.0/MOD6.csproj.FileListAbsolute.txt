@@ -1,0 +1,15 @@
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\bin\Debug\net8.0\MOD6.exe
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\bin\Debug\net8.0\MOD6.deps.json
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\bin\Debug\net8.0\MOD6.runtimeconfig.json
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\bin\Debug\net8.0\MOD6.dll
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\bin\Debug\net8.0\MOD6.pdb
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\MOD6.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\MOD6.AssemblyInfoInputs.cache
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\MOD6.AssemblyInfo.cs
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\MOD6.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\MOD6.sourcelink.json
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\MOD6.dll
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\refint\MOD6.dll
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\MOD6.pdb
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\MOD6.genruntimeconfig.cache
+D:\SEMESTER 4\PRAK KPL\TPMOD6\MOD6\obj\Debug\net8.0\ref\MOD6.dll
